@@ -1,4 +1,4 @@
-Subtract Forked on Test09,4
+Subtract Forked on Test09,5
 True
 nicolaasburgers
 N:
@@ -7,6 +7,8 @@ L:
 subtract_forked,Subtract Forked,1,,Test08
 O:
 240221_test_1,240221 Test 1,1,,Test08
+P:
+Kangaroo2 Components,2.5.3.0
 T:
 Test
 Maths
