@@ -1,0 +1,8 @@
+Test Multiplication,1
+True
+nicolaasburgers
+P:
+Grasshopper,8.4.24044.15001
+Grasshopper,8.4.24044.15001
+T:
+Maths
