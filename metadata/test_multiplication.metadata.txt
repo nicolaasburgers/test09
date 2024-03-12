@@ -1,4 +1,4 @@
-Test Multiplication,3
+Test Multiplication,4
 True
 nicolaasburgers
 N:
