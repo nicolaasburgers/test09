@@ -1,3 +1,3 @@
-Subtract then to the power of 10,5
+Subtract then to the power of 10,6
 True
 nicolaasburgers
