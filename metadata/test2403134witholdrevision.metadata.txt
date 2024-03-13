@@ -1,0 +1,6 @@
+Test_240313_4_with_old_revision,1
+False
+hesitanthendrikus
+N:
+subtract_then_to_the_power_of_10,Subtract then to the power of 10,1
+subtract_then_to_the_power_of_10,Subtract then to the power of 10,2
