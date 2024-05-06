@@ -1,0 +1,7 @@
+NB Compound Three 240506,1
+True
+nicolaasburgers
+N:
+nb_addition_three_240506,NB Addition Three 240506,1,,definition-library-furniture
+T:
+Tree
