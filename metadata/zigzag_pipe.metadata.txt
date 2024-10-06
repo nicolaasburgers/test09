@@ -1,0 +1,11 @@
+ZigZag Pipe,1
+False,True
+nicolaasburgers
+N:
+zig_zag_polyline,Zig Zag Polyline,3,,definition-library-example
+P:
+Grasshopper,8.11.24254.15001
+RhinoCodePluginGH,8.11.24254.15001
+T:
+Polyline
+Cylinder
