@@ -1,4 +1,4 @@
-ZigZag Pipe,1
+ZigZag Pipe,2
 False,True
 nicolaasburgers
 N:
