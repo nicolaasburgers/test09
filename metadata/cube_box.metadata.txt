@@ -1,5 +1,7 @@
-Cube Box,1
+Cube Box,2
 False,True
 nicolaasburgers
 P:
 Grasshopper,8.12.24282.7001
+T:
+Ghosted
