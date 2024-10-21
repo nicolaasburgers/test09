@@ -1,3 +1,5 @@
-Set of Objects A,3
+Set of Objects A,4
 False,True
 nicolaasburgers
+T:
+Ghosted
