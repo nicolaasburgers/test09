@@ -1,0 +1,12 @@
+Coffee table,1
+False,True
+nicolaasburgers
+N:
+lego_block_length,LEGO block length,7,,definition-library-furniture
+shelftable_angles_and_lengths,Shelftable angles and lengths,4,,definition-library-furniture
+shelftable_trolley_arm_lengths,Shelftable trolley arm lengths,1
+cluster,Cluster,1
+cluster,Cluster,1
+zig_zag_polyline,Zig Zag Polyline,1
+median-index,Median-Index,1
+cluster,Cluster,1
