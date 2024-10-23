@@ -1,4 +1,4 @@
-Z2 table,1
+Z2 table,2
 False,True
 nicolaasburgers
 N:
