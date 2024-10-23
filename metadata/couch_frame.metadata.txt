@@ -1,0 +1,5 @@
+Couch frame,1
+False,True
+nicolaasburgers
+T:
+Furniture
