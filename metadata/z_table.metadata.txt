@@ -1,0 +1,10 @@
+Z table,1
+False,True
+nicolaasburgers
+N:
+lego_block_length,LEGO block length,7,,definition-library-furniture
+cluster,Cluster,1
+cluster,Cluster,1
+zig_zag_polyline,Zig Zag Polyline,1
+L:
+coffee_table,Coffee table,4
