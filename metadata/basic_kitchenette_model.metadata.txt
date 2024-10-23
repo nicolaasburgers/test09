@@ -1,0 +1,7 @@
+Basic Kitchenette Model,1
+True,False
+nicolaasburgers
+T:
+Kitchen
+Cabinet
+Set
