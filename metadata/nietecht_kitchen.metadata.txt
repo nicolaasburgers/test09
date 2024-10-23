@@ -1,5 +1,5 @@
-Nietecht Kitchen,1
-True,True
+Nietecht Kitchen,2
+False,True
 nicolaasburgers
 N:
 basic_kitchenette_model,Basic Kitchenette Model,4
