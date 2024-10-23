@@ -1,0 +1,6 @@
+Wardrobe C,1
+False,True
+nicolaasburgers
+L:
+wardrobe_a,Wardrobe A,1
+wardrobe_b,Wardrobe B,1
