@@ -1,0 +1,7 @@
+Shelftable,1
+False,True
+nicolaasburgers
+T:
+Child
+Transforming
+Furniture
