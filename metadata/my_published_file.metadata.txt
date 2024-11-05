@@ -1,5 +1,5 @@
 My Published File,1
-False
-nicolaasburgers
+False,False
+hesitanthendrikus
 N:
 my_published_cluster,My Published Cluster,1
