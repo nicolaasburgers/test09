@@ -15,6 +15,7 @@ public class Script_Instance : GH_ScriptInstance
         ref object B
     )
     {
+            // Some comment here
             A = (u == null) ? "empty tree" : "Tree with " + string.Join(", ", u.AllData());
             B = (v == null) ? "empty list" : "List with " + string.Join(", ", v.ToArray());
             Print(string.IsNullOrEmpty(w) ? "no string" : w);
