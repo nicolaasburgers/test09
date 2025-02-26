@@ -1,4 +1,4 @@
-Text repeater script,1
+Text repeater script,2
 False,False
 nicolaasburgers
 A:
