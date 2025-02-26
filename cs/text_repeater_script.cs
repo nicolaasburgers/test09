@@ -9,6 +9,8 @@ using System.Drawing;
 public class Script_Instance : GH_ScriptInstance
 {
     #region Notes
+
+    // Some other note here
     /* 
       Members:
         RhinoDoc RhinoDocument
