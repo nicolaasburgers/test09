@@ -1,5 +1,6 @@
 // @GHInput: Num (int) [Access=Item]
 // @GHInput: Str (string) [Access=Item]
+// @GHInput: Extra (string) [Access=List]
 // @GHOutput: Result
 
 using System.Linq;
@@ -23,7 +24,11 @@ public class Script_Instance : GH_ScriptInstance
     */
     #endregion
 
-    private void RunScript(int Num, string Str, ref object Result)
+    private void RunScript(
+		int Num,
+		string Str,
+		List<string> Extra,
+		ref object Result)
     {
         // Write your logic here
         Result = string.Join(", ", Enumerable.Repeat(Str, Num));
