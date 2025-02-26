@@ -1,0 +1,8 @@
+Text repeater script,1
+False,False
+nicolaasburgers
+A:
+nicolaasburgers
+T:
+C#
+Script
