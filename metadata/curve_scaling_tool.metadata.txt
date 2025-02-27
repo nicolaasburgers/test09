@@ -1,0 +1,8 @@
+Curve Scaling Tool,1
+False,False
+nicolaasburgers
+A:
+nicolaasburgers
+T:
+Test
+Script
