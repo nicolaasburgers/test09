@@ -1,4 +1,4 @@
-Curve Scaling Tool,1
+Curve Scaling Tool,2
 False,False
 nicolaasburgers
 A:
