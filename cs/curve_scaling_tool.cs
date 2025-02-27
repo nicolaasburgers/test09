@@ -1,5 +1,6 @@
 // @GHInput: Crv (Rhino.Geometry.Curve) [Access=Item]
 // @GHInput: Scale (double) [Access=Item]
+// @GHInput: Comment (string) [Access=Item]
 // @GHOutput: Geo
 
 using System.Linq;
@@ -23,7 +24,7 @@ public class Script_Instance : GH_ScriptInstance
     */
     #endregion
 
-    private void RunScript(Curve Crv, double Scale, ref object Geo)
+    private void RunScript(Curve Crv, double Scale, string Comment, ref object Geo)
     {
         // Write your logic here
         if (Crv == null) Geo = null;
@@ -32,6 +33,7 @@ public class Script_Instance : GH_ScriptInstance
             Crv.Scale(Scale);
             Geo = Crv;
         }
+        Print(Comment);
     }
 }
 
