@@ -1,0 +1,7 @@
+Scaler for Curves,1
+False,False
+nicolaasburgers
+A:
+nicolaasburgers
+T:
+Script
