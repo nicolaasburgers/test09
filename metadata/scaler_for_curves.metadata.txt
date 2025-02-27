@@ -1,4 +1,4 @@
-Scaler for Curves,1
+Scaler for Curves,2
 False,False
 nicolaasburgers
 A:
