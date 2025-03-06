@@ -1,0 +1,10 @@
+Mitch Test A,1
+False,False
+nicolaasburgers
+C:
+Extruder Py2 Plain Rhino 8
+A:
+nicolaasburgers
+T:
+Script
+Python Language
