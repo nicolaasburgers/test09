@@ -4,6 +4,7 @@
 # @GHOutput: CappedExtrusion (Brep) 
 import Rhino.Geometry as rg
 
+# Some other poetry here
 if BaseCrv is None:
     CappedExtrusion = None
 else:
