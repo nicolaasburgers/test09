@@ -1,0 +1,11 @@
+0314 Construct Component,1
+True,False
+nicolaasburgers
+C:
+ConstructComponent
+A:
+nicolaasburgers
+N:
+constructcomponent,ConstructComponent,1
+P:
+Grasshopper,8.16.25042.13001
