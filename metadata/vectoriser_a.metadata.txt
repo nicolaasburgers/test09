@@ -1,0 +1,7 @@
+Vectoriser A,1
+False,False
+nicolaasburgers
+C:
+Vectoriser A
+A:
+joe.bloggs@thornystems.onmicrosoft.com
