@@ -26,15 +26,6 @@ public class Script_Instance_create_trolley_lines : GH_ScriptInstance
         
         double lowY = WheelHeight;
         
-        //    int longestSlideIndex = SlideLengths.IndexOf(SlideLengths.Max());
-        //    int shortestSlideIndex = (longestSlideIndex == 0) ? 1 : 0;
-        //    bool widerSlideBelow = (DrawerSlideMidLineElevations[longestSlideIndex] < DrawerSlideMidLineElevations[shortestSlideIndex]);
-        //
-        //    if (widerSlideBelow)
-        //    {
-        //      lowY = DrawerSlideMidLineElevations[longestSlideIndex] + ArmWidth / 2 + FingerGap;
-        //    }
-        
         double pusherEndY = leftPtL.Y + TopDiff;
         Line horizontalLineForIntersection = new Line(Pt(leftPtL.X, pusherEndY), Pt(centreToPusherStart.PointAtEnd.X + PusherLength * dir, pusherEndY));
         Circle circleForIntersection = new Circle(Plane.WorldXY, centreToPusherStart.PointAtEnd, PusherLength);
